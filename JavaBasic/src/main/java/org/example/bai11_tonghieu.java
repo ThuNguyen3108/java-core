@@ -21,9 +21,8 @@ public class bai11_tonghieu {
 
         // Tinh x va y
         double x = (tong + hieu) / 2;
+        // y = tong - x
         double y = (tong - hieu) / 2;
-
-        // In ket qua
         System.out.println("Ket qua: ");
         System.out.println("x = " + x);
         System.out.println("y = " + y);
