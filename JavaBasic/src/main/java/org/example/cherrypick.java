@@ -1,2 +1,4 @@
-package org.example;public class cherrypick {
+package org.example;
+
+public class cherrypick {
 }
