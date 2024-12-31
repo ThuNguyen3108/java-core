@@ -28,5 +28,16 @@ public class bai30_oop {
         // test phuong thuc toString, ho tro xuat truc tiep doi tuong do ra
         System.out.println(sv4);
 
+        sv4.checkHopLeDiem();
+
+        //12 overloading
+       double testDiem = sv4.tinhDTB(5,6,7);
+       System.out.println(testDiem);
+
+        double testDiemD2 = sv4.tinhDTB(5,6);
+        System.out.println(testDiemD2);
+
+        double kq = sv4.tongDiem(1,2,3,4,5,6,7,8);
+        System.out.println(kq);
     }
 }
