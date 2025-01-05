@@ -8,9 +8,9 @@ public class Video23 {
         Student st1 = new Student();
         /* Khai bao 1 object va gán giá trị
         * */
-        st1.name = "Eric";
-        st1.age = 25;
-
-        System.out.println("Student with name = " + st1.name + " and age = " + st1.age);
+//        st1.name = "Eric";
+//        st1.age = 25;
+//
+//        System.out.println("Student with name = " + st1.name + " and age = " + st1.age);
     }
 }
