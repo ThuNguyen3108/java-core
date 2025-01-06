@@ -27,7 +27,7 @@ public class SinhVienIT extends SinhVien {
 
     @Override
     void tinhDiem() {
-        
+
     }
 
     public void info() {
