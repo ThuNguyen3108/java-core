@@ -1,0 +1,20 @@
+
+
+tạo 3 class:
+SinhVien (super class)
++ getDiem (phương thức trừu tượng)
+
+
+SinhVienIT (child class)
++ scoreJava: double
++ scoreHTML: double
+
+
+getDiem = (scoreJava * 2 + scoreHTML)/3
+
+
+SinhVienCoKhi (child class)
++ scoreCNC: double
++ scorePLC: double
+
+getDiem = (scoreCNC + scorePLC)/2

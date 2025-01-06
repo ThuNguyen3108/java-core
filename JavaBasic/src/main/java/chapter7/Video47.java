@@ -1,5 +1,6 @@
 package chapter7;
 // study abstract
+// trong viec ke thua class cha con, cu lay thang cha sau do thi muốn lấy thằng con nào cũng được
 class Animal {
     void eat() {
         System.out.println("animal is eating...");
